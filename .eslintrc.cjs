@@ -14,6 +14,6 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
-    "semi": ["warn", "always"],
+    semi: ["warn", "always"],
   },
 };
